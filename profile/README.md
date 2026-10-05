@@ -3,22 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=BASTION%20ORGANIZATION&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20Real-Time%20Communication%20&%20Community%20Infrastructure&descFontSize=20&descAlignY=62&descColor=dbdee1" width="100%" alt="BASTION Organization Header"/>
 
   <p align="center">
-    <a href="https://github.com/Bastion-Officiel"><img src="https://img.shields.io/badge/Organization-BASTION-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BASTION Org"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Engine-Python_Aiohttp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Engine"/></a>
+    <a href="https://github.com/BASTION"><img src="https://img.shields.io/badge/Platform-BASTION-5865F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDIwaDIwdjJIMnYtMnptMS0yaDJWOWwyLTJWNGgydjNoMlY0aDJ2M2gyVjRoMnYzaDJ2NWwyIDJ2Nmgydi04bC0zLTNWMmgtNHYzaC0yVjJoLTR2M0g3VjJIM3Y5bC0zIDN2Nmgzdi0yem04LTZoMnY2aC0ydi02eiIvPjwvc3ZnPg==&logoColor=white" alt="BASTION Platform"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Engine-Python_Asynchronous-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Voice_%26_Stage-WebAudio_%26_WebRTC-23A55A?style=for-the-badge&logo=webrtc&logoColor=white" alt="Voice Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Realtime-WebSocket_Hub-F59E0B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Hub"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Security-RBAC_%26_Encrypted_Vault-ED4245?style=for-the-badge&logo=vault&logoColor=white" alt="Security"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Security-Enterprise_Grade-ED4245?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHptMCAyLjE4bDcgMy4xMnY0LjdjMCA0LjU0LTMuMTUgOC43OS03IDkuODgtMy44NS0xLjA5LTctNS4zNC03LTkuODhWNi4zbDctMy4xMnpNNyA5djJoMlY5SDd6bTQgMHYyaDJWOWgtMnptNCAwdjJoMlY5aC0yem0tOCA0djJoMnYtMkg3em00IDB2Mmgydi0yaC0yeiIvPjwvc3ZnPg==&logoColor=white" alt="Security"/></a>
   </p>
 
-  <h3>🏰 La plateforme souveraine, temps réel et ultra-performante pour les communautés modernes.</h3>
+  <h3>🏰 Infrastructure souveraine, temps réel et ultra-performante pour les communautés modernes.</h3>
 
   <p align="center">
     <a href="#-à-propos-de-bastion">À propos</a> •
     <a href="#-écosystème--dépôts-bastion">Écosystème & Dépôts</a> •
     <a href="#-fonctionnalités-phares">Fonctionnalités</a> •
     <a href="#-architecture-système">Architecture</a> •
-    <a href="#-sécurité--souveraineté">Sécurité</a> •
-    <a href="#-démarrage-rapide">Déploiement</a> •
+    <a href="#-sécurité--souveraineté">Sécurité & Souveraineté</a> •
+    <a href="#-déploiement-en-production">Déploiement Cloud</a> •
     <a href="#-rejoindre-le-collectif">Rejoindre</a>
   </p>
 
@@ -28,12 +28,12 @@
 
 ## 🌟 À Propos de BASTION
 
-**BASTION** est une organisation technologique à but d'innovation logicielle dédiée à la création d'une alternative libre, décentralisable et sans compromis aux plateformes de communication instantanée propriétaires.
+**BASTION** est une organisation technologique dédiée au développement d'une suite logicielle de communication instantanée haute fidélité, résiliente et souveraine.
 
-Conçu dès le départ pour égaler et surpasser les standards de l'industrie (comme Discord), **BASTION** combine :
-- **Fluidité & Réactivité maximale** (latence websocket < 15ms).
-- **Fidélité visuelle 100% immersive** (dark mode natif, animations douces, design glassmorphism, responsive).
-- **Protection stricte de la vie privée** et souveraineté totale sur vos serveurs, messages et flux multimédias.
+Conçu pour égaler et surpasser les exigences des plateformes leaders du marché, **BASTION** offre :
+- **Fluidité & Réactivité maximale** (latence réseau ultra-faible optimisée pour le temps réel).
+- **Expérience immersive d'exception** (thème sombre natif, animations fluides, composants graphiques dynamiques).
+- **Confidentialité & Maîtrise des données** garantissant une gouvernance totale sur l'hébergement et les flux.
 
 ```ascii
   ____          _____ _______ _____ ____  _   _ 
@@ -61,27 +61,27 @@ Conçu dès le départ pour égaler et surpasser les standards de l'industrie (c
     <tbody>
       <tr>
         <td><strong>🏰 <a href="./DiscordApp">bastion-core</a></strong></td>
-        <td>Cœur applicatif complet de BASTION : Serveur AIOHTTP asynchrone, passerelle WebSocket, moteur de sessions, base de données et SPA complète.</td>
-        <td><img src="https://img.shields.io/badge/Production-Stable-23A55A?style=flat-square"/> <br/><code>Python 3.10+</code> <code>MySQL</code> <code>WebSocket</code></td>
+        <td>Cœur applicatif de BASTION : Moteur serveur asynchrone, passerelle WebSocket temps réel, gestionnaire d'état, couche de persistance et interface client unifiée.</td>
+        <td><img src="https://img.shields.io/badge/Production-Ready-23A55A?style=flat-square"/> <br/><code>Python 3.10+</code> <code>MySQL</code> <code>WebSocket</code></td>
       </tr>
       <tr>
         <td><strong>🎙️ <a href="#">bastion-voice-engine</a></strong></td>
-        <td>Moteur de traitement vocal et WebRTC : Analyse de fréquence micro (*Web Audio API*), détection dynamique de parole, mélangeur et passerelle conférence Stage.</td>
+        <td>Moteur de traitement vocal haute fidélité et WebRTC : Analyse fréquentielle, détection active de prise de parole et passerelle de conférence Stage.</td>
         <td><img src="https://img.shields.io/badge/Module-Haute_Fidélité-5865F2?style=flat-square"/> <br/><code>WebRTC</code> <code>Web Audio API</code></td>
       </tr>
       <tr>
         <td><strong>🖥️ <a href="#">bastion-screenshare</a></strong></td>
-        <td>Pipeline de capture vidéo et de partage d'écran HD jusqu'à 60 FPS avec gestion multi-flux et streaming fenêtré.</td>
+        <td>Pipeline de streaming et capture vidéo multi-sources jusqu'à 60 FPS avec adaptation dynamique de flux.</td>
         <td><img src="https://img.shields.io/badge/Flux-60_FPS-ED4245?style=flat-square"/> <br/><code>MediaStream</code> <code>Canvas</code></td>
       </tr>
       <tr>
         <td><strong>🛡️ <a href="#">bastion-badges-sdk</a></strong></td>
-        <td>Moteur de badges vectoriels SVG dynamiques et système d'authentification des statuts vérifiés (Fondateur, Partenaire, Officiel, Bot Certifié, Supporter).</td>
-        <td><img src="https://img.shields.io/badge/Design-Vector_SVG-F59E0B?style=flat-square"/> <br/><code>SVG Engine</code> <code>Security API</code></td>
+        <td>Système de distinctions et badges vectoriels vérifiés (Fondateur, Partenaire, Officiel, Bot Certifié, Supporter).</td>
+        <td><img src="https://img.shields.io/badge/Design-Vector_SVG-F59E0B?style=flat-square"/> <br/><code>SVG Engine</code> <code>Verification API</code></td>
       </tr>
       <tr>
         <td><strong>🤖 <a href="#">bastion-bot-framework</a></strong></td>
-        <td>SDK officiel pour développer et connecter des bots interactifs, webhooks et automatisations sur les serveurs BASTION.</td>
+        <td>SDK officiel pour concevoir des bots, services automatisés et intégrations d'infrastructure sur BASTION.</td>
         <td><img src="https://img.shields.io/badge/SDK-Python_%2F_JS-57F287?style=flat-square"/> <br/><code>REST API</code> <code>Gateway WS</code></td>
       </tr>
     </tbody>
@@ -94,29 +94,26 @@ Conçu dès le départ pour égaler et surpasser les standards de l'industrie (c
 
 ### 🎙️ Salons de Conférence (*Stage Channels*)
 - **Salle d'attente interactive (*Waiting Screen*)** :
-  - Identique à l'expérience Discord avec cartes de raccourci : *Commencer la conférence*, *Créer un événement*, *Continuer sans commencer*.
-  - Compteur et liste en temps réel des auditeurs en attente (*ex: `Hugøf attend.`*).
-- **Direct de Conférence HD** :
-  - **Cartes des Intervenants (*Speakers*)** : Arrière-plan aux couleurs de bannière personnalisée, avatar 76px avec halo vert actif (`#23a55a`), bouclier de modérateur blanc 🛡️ et pastille de pseudo.
-  - **Gestion du Public (*Audience*)** : Système de **levée de main ✋** avec notification visuelle immédiate pour les modérateurs et invitation en 1 clic sur scène.
-  - **Rôles Hôte / Modérateur** : Possibilité d'expulser vers le public, couper les micros ou clore la conférence.
+  - Interface dédiée avec flux d'actions : *Démarrer la conférence*, *Planifier un événement*, *Rejoindre en auditeur*.
+  - Compteur et actualisation temps réel des membres en attente.
+- **Scène de Conférence HD** :
+  - **Cartes des Intervenants (*Speakers*)** : Bannières personnalisées, mise en avant visuelle du locuteur actif (`#23a55a`), indicateurs de modération et identifiants stylisés.
+  - **Gestion dynamique de l'Audience** : Demandes d'accès à la scène par **levée de main ✋**, validation instantanée par les modérateurs et passage fluide au statut d'intervenant.
+  - **Contrôle d'animation** : Gestion des droits de parole, modération de scène et clôture de session.
 
-### 🔊 Salons Vocaux & Détection de Parole en Temps Réel
-- **Web Audio API Frequency Analyser** : Analyse acoustique instantanée côté client sans surcharger la bande passante.
-- Cerclage lumineux vert `#23a55a` automatique sur l'avatar du locuteur (dans le salon et dans la barre latérale).
-- Barre de statut permanente au-dessus du profil : *Vocal connecté* / *Conférence connectée* avec bouton de déconnexion rapide.
-- **Soundboard BASTION** : Générateur d'effets sonores Discord (Quack, Airhorn, Ta-da, GG, etc.) synthétisés en temps réel.
+### 🔊 Salons Vocaux & Traitement Audio Temps Réel
+- **Analyse acoustique instantanée** : Détection intelligente de la voix avec rétroaction visuelle immédiate.
+- Halo lumineux actif automatique sur le profil et dans la liste des salons.
+- Panneau de statut persistant de connexion vocale avec bascule rapide et contrôles audio.
+- **Module Soundboard BASTION** : Bibliothèque d'effets sonores synthétisés et diffusés en temps réel.
 
-### 🖥️ Partage d'écran en Direct (*Live Screen Sharing*)
-- Capture plein écran, fenêtre d'application ou onglet navigateur en un clic via `getDisplayMedia`.
-- Lecteur vidéo HD sombre avec badge clignotant **`🔴 EN DIRECT`**, nom du diffuseur et mode plein écran.
+### 🖥️ Diffusion d'Écran en Direct (*Live Screen Sharing*)
+- Capture flexible (écran complet, fenêtre logicielle ou onglet) avec haute fluidité.
+- Lecteur vidéo intégré avec statut **`🔴 EN DIRECT`**, affichage du diffuseur et immersion plein écran.
 
-### 📁 Gestionnaire Multimédia & Pièces Jointes
-- Envoi et prévisualisation directe :
-  - **Images** (PNG, JPG, GIF, WebP).
-  - **Vidéos & Clips** jusqu'à **100 Mo** (MP4, WebM).
-  - **Documents** jusqu'à **30 Mo** (PDF, ZIP, TXT, etc.).
-- Cycle de vie intelligent : Conservation permanente des avatars et bannières, et purge programmable des pièces jointes éphémères.
+### 📁 Gestionnaire Multimédia & Échanges de Données
+- Partage de médias haute résolution : images, clips vidéo et documents structurés.
+- Optimisation des flux de transfert et distribution sécurisée des contenus.
 
 ---
 
@@ -124,23 +121,23 @@ Conçu dès le départ pour égaler et surpasser les standards de l'industrie (c
 
 ```mermaid
 flowchart TD
-    subgraph ClientLayer ["🖥️ BASTION Client Web (SPA)"]
-        ChatUI["Interface Textuelle & Salons"]
-        VoiceAnalyzer["Web Audio Analyser (Microphone)"]
-        ScreenCapturer["WebRTC Screen Capturer"]
-        WSClient["WebSocket Gateway Client"]
+    subgraph ClientLayer ["🖥️ BASTION Web & Client Ecosystem"]
+        ChatUI["Interface Textuelle & Espaces"]
+        VoiceAnalyzer["Moteur Audio & Micro"]
+        ScreenCapturer["Capture Vidéo & Écran"]
+        WSClient["Passerelle Client WebSocket"]
     end
 
-    subgraph ServerLayer ["⚡ BASTION Async Server (Python)"]
-        HTTPServer["AIOHTTP REST & Static Engine"]
-        WSBroker["WebSocket Event Dispatcher"]
-        VoiceHub["Voice & Stage State Machine"]
-        AuthSecurity["HMAC Session & Security Controller"]
+    subgraph ServerLayer ["⚡ BASTION Production Cluster"]
+        HTTPServer["Moteur REST & Services Web"]
+        WSBroker["Distributeur d'Événements Temps Réel"]
+        VoiceHub["Gestionnaire d'États Vocaux & Stage"]
+        AuthSecurity["Contrôleur d'Accès & Sécurité"]
     end
 
-    subgraph DataLayer ["💾 Stockage & Persistance"]
-        Database[(MySQL / SQLite Relational DB)]
-        CDN["Storage Engine / External File Host"]
+    subgraph DataLayer ["💾 Couche de Persistance & Médias"]
+        Database[(Base de Données Relationnelle)]
+        StorageVault["Serveur de Stockage / Médias"]
     end
 
     ChatUI --> WSClient
@@ -150,7 +147,7 @@ flowchart TD
     HTTPServer --> AuthSecurity
     AuthSecurity --> Database
     WSBroker --> VoiceHub
-    HTTPServer --> CDN
+    HTTPServer --> StorageVault
 ```
 
 ---
@@ -161,62 +158,102 @@ flowchart TD
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,webrtc,docker,git,linux,nginx" />
 </div>
 
-- **Backend** : Python 3.10+, AIOHTTP (Asynchrone haute concurrence), WebSocket Gateway.
-- **Frontend** : Vanilla HTML5, Modern CSS Variables & Animations, Pure JavaScript ES6+ (zéro framework lourd, performances natives).
-- **Audio & Vidéo** : WebRTC MediaStreams, Web Audio API AudioContext & AnalyserNode.
-- **Base de données** : MySQL 8.0 / MariaDB avec fallback SQLite automatique.
+- **Core Server** : Python 3.10+, Architecture Asynchrone Haute Performance, Passerelle WebSocket temps réel.
+- **Interface Client** : Architecture Web moderne, CSS optimisé pour le rendu graphique, JavaScript modulaire haute performance.
+- **Multimédia & Flux** : WebRTC, Web Audio API, Canvas Engine.
+- **Persistance** : MySQL / MariaDB haute disponibilité.
 
 ---
 
 ## 🔒 Sécurité & Souveraineté
 
-BASTION applique des standards de sécurité de niveau entreprise :
+BASTION intègre une politique de sécurité rigoureuse pour garantir l'intégrité de la plateforme :
 
-1. **Hachage cryptographique** : Mots de passe sécurisés avec algorithmes `PBKDF2-SHA256` / `Bcrypt` avec sel aléatoire unique.
-2. **Contrôle d'accès basé sur les rôles (RBAC)** : Permissions hiérarchiques vérifiées côté serveur avant chaque modification ou suppression.
-3. **Protection contre les injections & failles web** : Requêtes SQL préparées systématiques, assainissement strict des entrées contre le XSS et validation MIME des fichiers téléversés.
-4. **Authentification des badges** : Les privilèges et distinctions (Staff, Fondateur, Modérateur) sont certifiés par le serveur et inviolables côté client.
+- 🛡️ **Protection & Chiffrement** : Sécurisation intégrale des sessions et des flux de données en transit.
+- 🔑 **Gestion des Autorisations (RBAC)** : Modèle de permissions strict et cloisonné avec validation systématique côté serveur.
+- 🛡️ **Intégrité de l'Infrastructure** : Isolation des traitements, contrôle d'accès rigoureux et protection contre les attaques conventionnelles.
+- 🌐 **Souveraineté des Données** : Déploiement autonome sur infrastructure dédiée, sans dépendance tierce non maîtrisée.
 
 ---
 
-## ⚡ Démarrage Rapide
+## 🚀 Déploiement en Production
 
-### 1. Prérequis
-- **Python 3.10 ou supérieur**
-- **MySQL 8.0+** (ou SQLite intégré)
-- Navigateur récent compatible WebRTC (Chrome, Firefox, Edge, Safari, Brave)
+BASTION est conçu pour être déployé sur des serveurs dédiés, VPS ou environnements Cloud (Linux, Docker, Kubernetes).
 
-### 2. Installation
+### 1. Configuration de l'Environnement
 
-```bash
-# Cloner le dépôt de l'organisation
-git clone https://github.com/BASTION/bastion-core.git
-cd bastion-core/DiscordApp
+Définissez les variables d'environnement de votre instance dans votre gestionnaire de configuration :
 
-# Installer les dépendances
-pip install aiohttp mysql-connector-python python-dotenv
-
-# Configurer les variables d'environnement
-cp .env.example .env
-
-# Lancer le serveur BASTION
-python server.py
+```env
+APP_ENV=production
+APP_PORT=8080
+DB_HOST=votre-serveur-db
+DB_NAME=bastion
+DB_USER=bastion_user
+DB_PASSWORD=votre_mot_de_passe_securise
+SECRET_KEY=votre_cle_secrete_longue_et_aleatoire
 ```
 
+### 2. Déploiement avec Reverse Proxy (Nginx / SSL)
+
+Il est recommandé d'exécuter BASTION derrière un reverse proxy gérant les certificats SSL/TLS et les connexions WebSocket persistantes :
+
+```nginx
+server {
+    listen 443 ssl http2;
+    server_name votre-domaine.com;
+
+    ssl_certificate /etc/letsencrypt/live/votre-domaine.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/votre-domaine.com/privkey.pem;
+
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+```
+
+### 3. Exécution en Service Continu (Systemd)
+
+Pour assurer une disponibilité continue et un redémarrage automatique en production :
+
+```ini
+[Unit]
+Description=BASTION Production Service
+After=network.target
+
+[Service]
+Type=simple
+User=bastion
+WorkingDirectory=/opt/bastion/DiscordApp
+ExecStart=/opt/bastion/venv/bin/python server.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+```
 
 ---
 
 ## 👥 Rejoindre le Collectif
 
-L'organisation **BASTION** est ouverte aux contributeurs, designers et développeurs passionnés :
+L'organisation **BASTION** réunit développeurs, administrateurs système et créateurs d'outils :
 
-- 🐛 **Rapporter un bug** : Ouvrez une [Issue](https://github.com/BASTION/bastion-core/issues).
-- 💡 **Proposer une fonctionnalité** : Lancez une discussion sur notre serveur communautaire.
-- 🛠️ **Créer une Pull Request** : Les contributions bien documentées et testées sont examinées et fusionnées rapidement.
+- 💡 **Proposer une amélioration** : Ouvrez une proposition ou rejoignez les canaux d'échange.
+- 🐛 **Signaler une anomalie** : Déposez un rapport via le gestionnaire d'incidents.
+- 🛠️ **Contribuer** : Les contributions conformes aux standards de code et de sécurité sont les bienvenues.
 
 <div align="center">
   <br/>
-  <sub>Conçu et maintenu avec passion par l'équipe <strong>BASTION</strong> • © 2026 Tous droits réservés</sub>
+  <sub>Conçu et maintenu par l'équipe <strong>BASTION</strong> • © 2026 Tous droits réservés</sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
 </div>
+
