@@ -42,7 +42,7 @@ Conçu pour offrir une expérience sans friction, **BASTION** est une infrastruc
  | |_) | /  \ | (___    | |    | || |  | |  \| |
  |  _ < / /\ \ \___ \   | |    | || |  | | . ` |
  | |_) / ____ \____) |  | |   _| || |__| | |\  |
- |____/_/    \_\_____/   |_|  |_____\____/|_| \_|
+ |____/_/    \_\_____/  |_|  |_____\____/|_| \_|
        REAL-TIME COMMUNITY ENGINE & PLATFORM      
 ```
 
