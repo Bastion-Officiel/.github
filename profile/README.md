@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=BASTION%20ORGANIZATION&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20Real-Time%20Communication%20&%20Community%20Infrastructure&descFontSize=20&descAlignY=62&descColor=dbdee1" width="100%" alt="BASTION Organization Header"/>
 
   <p align="center">
-    <a href="https://github.com/BASTION"><img src="https://img.shields.io/badge/Organization-BASTION-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BASTION Org"/></a>
+    <a href="https://github.com/Bastion-Officiel"><img src="https://img.shields.io/badge/Organization-BASTION-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BASTION Org"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Engine-Python_Aiohttp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Voice_%26_Stage-WebAudio_%26_WebRTC-23A55A?style=for-the-badge&logo=webrtc&logoColor=white" alt="Voice Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Realtime-WebSocket_Hub-F59E0B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Hub"/></a>
