@@ -1,9 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=BASTION%20ORGANIZATION&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20Real-Time%20Communication%20&%20Community%20Infrastructure&descFontSize=20&descAlignY=62&descColor=dbdee1" width="100%" alt="BASTION Organization Header"/>
+  <img src="https://raw.githubusercontent.com/Bastion-Officiel/.github/main/Bastion_Officiel.png" width="120" height="120" alt="BASTION Official Logo" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(0,0,0,0.3); margin-bottom: 12px;"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=BASTION%20ORGANIZATION&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20Real-Time%20Communication%20&%20Community%20Infrastructure&descFontSize=19&descAlignY=62&descColor=dbdee1" width="100%" alt="BASTION Organization Header"/>
 
   <p align="center">
-    <a href="https://github.com/BASTION"><img src="https://img.shields.io/badge/Platform-BASTION-5865F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDIwaDIwdjJIMnYtMnptMS0yaDJWOWwyLTJWNGgydjNoMlY0aDJ2M2gyVjRoMnYzaDJ2NWwyIDJ2Nmgydi04bC0zLTNWMmgtNHYzaC0yVjJoLTR2M0g3VjJIM3Y5bC0zIDN2Nmgzdi0yem04LTZoMnY2aC0ydi02eiIvPjwvc3ZnPg==&logoColor=white" alt="BASTION Platform"/></a>
+    <a href="https://github.com/Bastion-Officiel"><img src="https://img.shields.io/badge/Platform-BASTION-5865F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDIwaDIwdjJIMnYtMnptMS0yaDJWOWwyLTJWNGgydjNoMlY0aDJ2M2gyVjRoMnYzaDJ2NWwyIDJ2Nmgydi04bC0zLTNWMmgtNHYzaC0yVjJoLTR2M0g3VjJIM3Y5bC0zIDN2Nmgzdi0yem04LTZoMnY2aC0ydi02eiIvPjwvc3ZnPg==&logoColor=white" alt="BASTION Platform"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Engine-Python_Asynchronous-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Voice_%26_Stage-WebAudio_%26_WebRTC-23A55A?style=for-the-badge&logo=webrtc&logoColor=white" alt="Voice Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Realtime-WebSocket_Hub-F59E0B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Hub"/></a>
@@ -18,8 +20,7 @@
     <a href="#-fonctionnalités-phares">Fonctionnalités</a> •
     <a href="#-architecture-système">Architecture</a> •
     <a href="#-sécurité--souveraineté">Sécurité & Souveraineté</a> •
-    <a href="#-déploiement-en-production">Déploiement Cloud</a> •
-    <a href="#-rejoindre-le-collectif">Rejoindre</a>
+    <a href="#-rejoindre-la-communauté">Rejoindre</a>
   </p>
 
 </div>
@@ -28,12 +29,12 @@
 
 ## 🌟 À Propos de BASTION
 
-**BASTION** est une organisation technologique dédiée au développement d'une suite logicielle de communication instantanée haute fidélité, résiliente et souveraine.
+**BASTION** est une plateforme technologique moderne de communication instantanée haute fidélité, résiliente et souveraine, développée et entièrement opérée par l'organisation **BASTION**.
 
-Conçu pour égaler et surpasser les exigences des plateformes leaders du marché, **BASTION** offre :
-- **Fluidité & Réactivité maximale** (latence réseau ultra-faible optimisée pour le temps réel).
-- **Expérience immersive d'exception** (thème sombre natif, animations fluides, composants graphiques dynamiques).
-- **Confidentialité & Maîtrise des données** garantissant une gouvernance totale sur l'hébergement et les flux.
+Conçu pour offrir une expérience sans friction, **BASTION** est une infrastructure hébergée et gérée de bout en bout : **aucune installation ni maintenance n'est requise pour les utilisateurs**, qui bénéficient immédiatement d'un service haut de gamme :
+- **Fluidité & Réactivité maximale** : Latence réseau ultra-faible optimisée pour le temps réel.
+- **Expérience immersive d'exception** : Thème sombre natif, animations fluides, interface dynamique.
+- **Confidentialité & Maîtrise totale** : Données protégées et gouvernance centralisée sur une infrastructure dédiée haute disponibilité.
 
 ```ascii
   ____          _____ _______ _____ ____  _   _ 
@@ -172,87 +173,21 @@ BASTION intègre une politique de sécurité rigoureuse pour garantir l'intégri
 - 🛡️ **Protection & Chiffrement** : Sécurisation intégrale des sessions et des flux de données en transit.
 - 🔑 **Gestion des Autorisations (RBAC)** : Modèle de permissions strict et cloisonné avec validation systématique côté serveur.
 - 🛡️ **Intégrité de l'Infrastructure** : Isolation des traitements, contrôle d'accès rigoureux et protection contre les attaques conventionnelles.
-- 🌐 **Souveraineté des Données** : Déploiement autonome sur infrastructure dédiée, sans dépendance tierce non maîtrisée.
+- 🌐 **Souveraineté des Données** : Plateforme opérée et hébergée directement par l'équipe BASTION sur une infrastructure souveraine dédiée.
 
 ---
 
-## 🚀 Déploiement en Production
+## 👥 Rejoindre la Communauté
 
-BASTION est conçu pour être déployé sur des serveurs dédiés, VPS ou environnements Cloud (Linux, Docker, Kubernetes).
+L'organisation **BASTION** est ouverte aux créateurs de contenu, partenaires et développeurs de bots :
 
-### 1. Configuration de l'Environnement
-
-Définissez les variables d'environnement de votre instance dans votre gestionnaire de configuration :
-
-```env
-APP_ENV=production
-APP_PORT=8080
-DB_HOST=votre-serveur-db
-DB_NAME=bastion
-DB_USER=bastion_user
-DB_PASSWORD=votre_mot_de_passe_securise
-SECRET_KEY=votre_cle_secrete_longue_et_aleatoire
-```
-
-### 2. Déploiement avec Reverse Proxy (Nginx / SSL)
-
-Il est recommandé d'exécuter BASTION derrière un reverse proxy gérant les certificats SSL/TLS et les connexions WebSocket persistantes :
-
-```nginx
-server {
-    listen 443 ssl http2;
-    server_name votre-domaine.com;
-
-    ssl_certificate /etc/letsencrypt/live/votre-domaine.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/votre-domaine.com/privkey.pem;
-
-    location / {
-        proxy_pass http://127.0.0.1:8080;
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection "upgrade";
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-    }
-}
-```
-
-### 3. Exécution en Service Continu (Systemd)
-
-Pour assurer une disponibilité continue et un redémarrage automatique en production :
-
-```ini
-[Unit]
-Description=BASTION Production Service
-After=network.target
-
-[Service]
-Type=simple
-User=bastion
-WorkingDirectory=/opt/bastion/DiscordApp
-ExecStart=/opt/bastion/venv/bin/python server.py
-Restart=always
-RestartSec=5
-
-[Install]
-WantedBy=multi-user.target
-```
-
----
-
-## 👥 Rejoindre le Collectif
-
-L'organisation **BASTION** réunit développeurs, administrateurs système et créateurs d'outils :
-
-- 💡 **Proposer une amélioration** : Ouvrez une proposition ou rejoignez les canaux d'échange.
-- 🐛 **Signaler une anomalie** : Déposez un rapport via le gestionnaire d'incidents.
-- 🛠️ **Contribuer** : Les contributions conformes aux standards de code et de sécurité sont les bienvenues.
+- 💡 **Proposer une idée ou un partenariat** : Contactez l'équipe officielle BASTION.
+- 🤖 **Développer des intégrations** : Utilisez le `bastion-bot-framework` pour enrichir les serveurs de votre communauté.
+- 🐛 **Signaler un incident** : Ouvrez un signalement auprès de notre équipe support.
 
 <div align="center">
   <br/>
-  <sub>Conçu et maintenu par l'équipe <strong>BASTION</strong> • © 2026 Tous droits réservés</sub>
+  <sub>Conçu, développé et hébergé par l'organisation <strong>BASTION</strong> • © 2026 Tous droits réservés</sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
 </div>
