@@ -6,6 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/Bastion-Officiel"><img src="https://img.shields.io/badge/Platform-BASTION-5865F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFlUlEQVR42u1Xa2xURRT+zsy9u9vd7tLdYruKz4iPUDVGSwQtFKNWFIw/tIsJGh/4CvERojGuYnerEcQHxqhRY4yKNsZF4isqPou0RDSgYLSoRQWltrHSso/u7t25M8cfLdWY2pbi44eeHzc3mcnMd7755jtngP9jgsHMxMySmWUikRD/OiCifyZrycxy6L9aO7mH2ck9xswH/XF83MAnAqSnp6e6L+N80vLujkOVq3FJwxE/H3lYda3f7/9xX9eyxpqQSrGMxWAAYla5s2F0Nfo2rpl1U8eUzh19Lpjx8vtVVcl53gJz/iK4Kk/2pNeGGBFEZEZbf0zxxGKkW1vXyXy27+JPthfX3nDvByfS2e9Udf1SUJFIQEYqy2X3L3l34X1fVF1359ppH31dejWT6V+0adMme6zNRzsCYmYA8DiF/CPeMv/qhosfO3BLLz3d29PdEQp5o8Iur2SVB4Mh7ADYzfens4WuSGV1TU2FWbz+peu+HhjILgoEglcBKA4KlXhcDCQSCSIi3rVr9wF3PbP5yqPmraxv7eid5xQGdHhypIasQCWrwjuG9UyQOYVV8W1IbzgcDh+nSwNm4/e7zzm84f76pic3Ldy6dWeUiDiZHDnZP2EgIYBmg9rbD0GJOgLlgXLb4wFAYLf0EbRamm5w16G5eZji4GnLzxOEJrJ8tYCBq0rIZfMFwFODz+/4fnjNfdFAuMyHcEVA2lIwa9VndOnakus2srd8fuh9TwwAMOOBMjSmZHZD/PV0e3w6u8WYcVW3JOGGK/xi0gEB2i8RasPMwiY2ekem7dYnLEHPC8u/hIS8PDD7nuOx8aYCVsc0AIRmJCJMdCyIPJC2pQ17RbHk7tc1HLIgMEOiMSXR3VkOowDIBsn64+Cse55joR8kTdMh5N3CDh7CRgGqsBna3N5/8GddABMw8o2wxmF/e62WsTqmRd3yBUblFgO8WEhfGQNXs8pfCiG9BAHjpLeB6aFMsOsZrH3YGcvvxD74MAGAYb2I2WwFcT27xRRcx5BV5oXRJcAoEL6Etlf/tvnoMSoAtiBICBqsfSSGDOJ4KxBdBYPKdHt8gSZ1OrTzFknbAwibyLoQtvoxNGvFCn/9vdGxLH9UAHt27inkC06JpIcA0gDAgrKsihoGkzAt4cm13bE+3R4/17Azn427EUQgwC8s3y2W6376G4iRS7YYme0kA0zdG27GDQtqVxYL+e2C4BvSIxFBMhkvOppLaExJnPyEnW1b+kamPT4TRl3OwIBReReEqKWcAADeJwaSySQBxD/tzoXuXzLniticw97LDRQNJxICIL9xi5qEdV9w1opkZOeXAWy+RqExJQGmdFv8WRidISEtMByyLT1hDSiPr5jNOeFgsCzKTCSamw3B7CTLJ4lElZB2Qnn9nwbrll2C7/q9wLDX09DXDFaBCfpAUCkphAyF/NY2U1Czq85c+bpShbjr7NlCJJcLULW0vEeC5Kqgd/eboj7hYVPWBEYFG9eQsPyw9ahJjti9fPjhOjAnSWtHOYprzpoxdbZh0/L2+m/rvH7/UtuW7bqYuRXCUgAF4OaajCuPIXheIGHNJcAiaRPr0quWcloKXetKwOkT74h6evoWTo74lmzb3rN1+qUtIWMHLvTbbqd2CzdC2gSW1xOJucQGEBIw7lcAL023xdfslw/s7Wqi0UjLU69sOGNKtGJP77uLrXNOmvy446iDLDvwJhm8IYScS0RgcIa1SvjSvbXptvgajKNbpvE2o0SDPtDZuWvm1KlT5kw7/6Gjf+g3l9mkBt2a+UUD05Rtv+0bAEBjSu4tUn/ZO6C1tXVYtMdd8OgJwVPv3jKpbtnnobplc4cn1iesiTa74wUi9j5E6usTFk6+2h7MuFH+mdv9PfH7821MSfxLQX8r3f+J+BWtvKuGoL5AQQAAAABJRU5ErkJggg==&logoColor=white" alt="BASTION Platform"/></a>
+    <a href="https://www.npmjs.com/package/@bastion-hub/bastion.js"><img src="https://img.shields.io/npm/v/@bastion-hub/bastion.js?style=for-the-badge&logo=npm&color=CB3837" alt="NPM Package"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Engine-Python_Asynchronous-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Voice_%26_Stage-WebAudio_%26_WebRTC-23A55A?style=for-the-badge&logo=webrtc&logoColor=white" alt="Voice Engine"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Realtime-WebSocket_Hub-F59E0B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Hub"/></a>
@@ -17,10 +18,10 @@
   <p align="center">
     <a href="#-à-propos-de-bastion">À propos</a> •
     <a href="#-écosystème--dépôts-bastion">Écosystème & Dépôts</a> •
+    <a href="#-sdk--bots-bastionjs">SDK & Bots (bastion.js)</a> •
     <a href="#-fonctionnalités-phares">Fonctionnalités</a> •
     <a href="#-architecture-système">Architecture</a> •
-    <a href="#-sécurité--souveraineté">Sécurité & Souveraineté</a> •
-    <a href="#-rejoindre-la-communauté">Rejoindre</a>
+    <a href="#-sécurité--souveraineté">Sécurité & Souveraineté</a>
   </p>
 
 </div>
@@ -31,8 +32,8 @@
 
 **BASTION** est une plateforme technologique moderne de communication instantanée haute fidélité, résiliente et souveraine, développée et entièrement opérée par l'organisation **BASTION**.
 
-Conçu pour offrir une expérience sans friction, **BASTION** est une infrastructure hébergée et gérée de bout en bout : **aucune installation ni maintenance n'est requise pour les utilisateurs**, qui bénéficient immédiatement d'un service haut de gamme :
-- **Fluidité & Réactivité maximale** : Latence réseau ultra-faible optimisée pour le temps réel.
+Conçu pour offrir une expérience sans friction, **BASTION** est une infrastructure hébergée et gérée de bout en bout : **aucune installation ni maintenance complexe n'est requise pour les utilisateurs**, qui bénéficient immédiatement d'un service haut de gamme :
+- **Fluidité & Réactivité maximale** : Latence réseau ultra-faible optimisée pour le temps réel (< 15ms).
 - **Expérience immersive d'exception** : Thème sombre natif, animations fluides, interface dynamique.
 - **Confidentialité & Maîtrise totale** : Données protégées et gouvernance centralisée sur une infrastructure dédiée haute disponibilité.
 
@@ -62,8 +63,13 @@ Conçu pour offrir une expérience sans friction, **BASTION** est une infrastruc
     <tbody>
       <tr>
         <td><strong>🏰 <a href="./DiscordApp">bastion-core</a></strong></td>
-        <td>Cœur applicatif de BASTION : Moteur serveur asynchrone, passerelle WebSocket temps réel, gestionnaire d'état, couche de persistance et interface client unifiée.</td>
+        <td>Cœur applicatif de BASTION : Moteur serveur asynchrone, passerelle WebSocket temps réel, gestionnaire d'état, persistance et interface client unifiée.</td>
         <td><img src="https://img.shields.io/badge/Production-Ready-23A55A?style=flat-square"/> <br/><code>Python 3.10+</code> <code>MySQL</code> <code>WebSocket</code></td>
+      </tr>
+      <tr>
+        <td><strong>🤖 <a href="https://www.npmjs.com/package/@bastion-hub/bastion.js">bastion.js</a></strong></td>
+        <td>SDK officiel JavaScript / Node.js pour concevoir des bots autonomes, commandes slash, embeds et boutons interactifs sur BASTION.</td>
+        <td><a href="https://www.npmjs.com/package/@bastion-hub/bastion.js"><img src="https://img.shields.io/npm/v/@bastion-hub/bastion.js?color=CB3837&style=flat-square"/></a> <br/><code>Node.js</code> <code>NPM</code> <code>WebSocket</code></td>
       </tr>
       <tr>
         <td><strong>🎙️ <a href="#">bastion-voice-engine</a></strong></td>
@@ -80,14 +86,49 @@ Conçu pour offrir une expérience sans friction, **BASTION** est une infrastruc
         <td>Système de distinctions et badges vectoriels vérifiés (Fondateur, Partenaire, Officiel, Bot Certifié, Supporter).</td>
         <td><img src="https://img.shields.io/badge/Design-Vector_SVG-F59E0B?style=flat-square"/> <br/><code>SVG Engine</code> <code>Verification API</code></td>
       </tr>
-      <tr>
-        <td><strong>🤖 <a href="#">bastion-bot-framework</a></strong></td>
-        <td>SDK officiel pour concevoir des bots, services automatisés et intégrations d'infrastructure sur BASTION.</td>
-        <td><img src="https://img.shields.io/badge/SDK-Python_%2F_JS-57F287?style=flat-square"/> <br/><code>REST API</code> <code>Gateway WS</code></td>
-      </tr>
     </tbody>
   </table>
 </div>
+
+---
+
+## 🤖 SDK & Bots (`bastion.js`)
+
+BASTION intègre son propre SDK officiel publié sur le registre public NPM sous le scope **`@bastion-hub/bastion.js`**.
+
+```bash
+npm install @bastion-hub/bastion.js
+```
+
+### 📖 Documentation Développeur Bot
+- 📦 **Package NPM** : [@bastion-hub/bastion.js sur npmjs.com](https://www.npmjs.com/package/@bastion-hub/bastion.js)
+- 📘 **Guide Complet Officiel** : [Guide de développement & Déploiement de Bots](https://github.com/Bastion-Officiel/.github/blob/main/profile/BASTION_BOT_GUIDE.md)
+
+### Exemple minimal :
+```javascript
+const { Client, GatewayIntentBits, EmbedBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder } = require('@bastion-hub/bastion.js');
+
+const client = new Client({
+    intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]
+});
+
+client.on('ready', () => {
+    console.log(`🛡️ Bot connecté sur BASTION sous le nom ${client.user.tag} !`);
+});
+
+client.on('messageCreate', async (message) => {
+    if (message.content === '!status') {
+        const embed = new EmbedBuilder()
+            .setTitle('🛡️ État du Serveur BASTION')
+            .setDescription('Tous les systèmes sont opérationnels.')
+            .setColor(0x23a55a);
+
+        await message.reply({ embeds: [embed] });
+    }
+});
+
+client.login(process.env.BASTION_TOKEN);
+```
 
 ---
 
@@ -136,6 +177,11 @@ flowchart TD
         AuthSecurity["Contrôleur d'Accès & Sécurité"]
     end
 
+    subgraph BotLayer ["🤖 BASTION Bot Ecosystem"]
+        BastionJS["SDK @bastion-hub/bastion.js"]
+        BotApp["Bots & Automatisations"]
+    end
+
     subgraph DataLayer ["💾 Couche de Persistance & Médias"]
         Database[(Base de Données Relationnelle)]
         StorageVault["Serveur de Stockage / Médias"]
@@ -145,6 +191,9 @@ flowchart TD
     VoiceAnalyzer --> VoiceHub
     ScreenCapturer --> WSBroker
     WSClient <--> WSBroker
+    BotApp --> BastionJS
+    BastionJS <--> WSBroker
+    BastionJS --> HTTPServer
     HTTPServer --> AuthSecurity
     AuthSecurity --> Database
     WSBroker --> VoiceHub
@@ -156,10 +205,11 @@ flowchart TD
 ## 🧰 Stack Technologique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,sqlite,webrtc,docker,git,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,mysql,sqlite,webrtc,docker,git,linux,nginx" />
 </div>
 
 - **Core Server** : Python 3.10+, Architecture Asynchrone Haute Performance, Passerelle WebSocket temps réel.
+- **Bot SDK** : Node.js, WebSocket Client, REST Client v10 (`@bastion-hub/bastion.js`).
 - **Interface Client** : Architecture Web moderne, CSS optimisé pour le rendu graphique, JavaScript modulaire haute performance.
 - **Multimédia & Flux** : WebRTC, Web Audio API, Canvas Engine.
 - **Persistance** : MySQL / MariaDB haute disponibilité.
@@ -182,8 +232,8 @@ BASTION intègre une politique de sécurité rigoureuse pour garantir l'intégri
 L'organisation **BASTION** est ouverte aux créateurs de contenu, partenaires et développeurs de bots :
 
 - 💡 **Proposer une idée ou un partenariat** : Contactez l'équipe officielle BASTION.
-- 🤖 **Développer des intégrations** : Utilisez le `bastion-bot-framework` pour enrichir les serveurs de votre communauté.
-- 🐛 **Signaler un incident** : Ouvrez un signalement auprès de notre équipe support.
+- 🤖 **Développer des bots** : Utilisez le SDK officiel [`@bastion-hub/bastion.js`](https://www.npmjs.com/package/@bastion-hub/bastion.js).
+- 📖 **Consulter la documentation** : [Guide de développement de bots](https://github.com/Bastion-Officiel/.github/blob/main/profile/BASTION_BOT_GUIDE.md).
 
 <div align="center">
   <br/>
@@ -191,4 +241,3 @@ L'organisation **BASTION** est ouverte aux créateurs de contenu, partenaires et
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
 </div>
-
